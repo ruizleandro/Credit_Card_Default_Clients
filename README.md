@@ -1,1 +1,1 @@
-# Credit_Card_Default_Clients
+# Credit Card Default Clients Project
