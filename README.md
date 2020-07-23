@@ -44,7 +44,7 @@ In the future, I could try more models, like:
 * Normalized Linear Regression
   * Ridge Regression
   * Lasso Regression
-*Neural Networks
+* Neural Networks
 
 With their respective hyperparameter tuning.
 
