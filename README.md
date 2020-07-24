@@ -20,6 +20,8 @@ In the `Model Selection` section, I am going to use three models:
 * Support Vector Machines
 * Random Forest Classifier
 
+[Default according to credit limit](https://github.com/ruizleandro/Credit_Card_Default_Clients/blob/master/Default%20according%20to%20credit%20limit.png?raw=true)
+
 ## Summary of the Exploratory Data Analysis
 I drew three conclusions from the data exploration:
 * Male clients and those who only are high school graduates are more prone to default their credit card payments.
