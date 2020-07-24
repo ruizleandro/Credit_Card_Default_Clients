@@ -27,7 +27,7 @@ I drew three conclusions from the data exploration:
 * You might think that younger clients would be more likely to default, but the data shows that clients in their 30s are the most likely to default.
 
 ## Summary of the Project
-As we can see, the model that better performed for this task was the Logistic Regression model, with this results:
+Finally, the model that better performed for this task was the Logistic Regression model, with this results:
 
 * Precision: 0.83
 * Recall: 0.95
